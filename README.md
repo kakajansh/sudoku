@@ -26,3 +26,4 @@ Actually i made that project as an interest to C# programming and Visual Studio 
 >- **Location prop on change**
 >- Some more table sizes ?
 >- Random board generator
+>- Clear back color when user re-enter
